@@ -1,0 +1,9 @@
+.blogs-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 24px;
+  padding-right: 24px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
